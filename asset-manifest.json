@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pes-site/static/css/main.0af1025e.css",
+    "main.js": "/pes-site/static/js/main.4ac3da8b.js",
+    "static/media/teampic1.jpg": "/pes-site/static/media/teampic1.139598cb2929be24ccfd.jpg",
+    "static/media/techbg.png": "/pes-site/static/media/techbg.47baec288b3f8401292b.png",
+    "static/media/teampic2.jpg": "/pes-site/static/media/teampic2.afbc2004882401387ff6.jpg",
+    "static/media/imageedit_1_4895820502.png": "/pes-site/static/media/imageedit_1_4895820502.bc7eb195e27b118bd263.png",
+    "static/media/teampic3.jpg": "/pes-site/static/media/teampic3.208abd7993d3e0915060.jpg",
+    "static/media/pes4.jpg": "/pes-site/static/media/pes4.437ccbc43fec3fe48ba0.jpg",
+    "static/media/pes5.jpg": "/pes-site/static/media/pes5.b0c670f3c7409e78f871.jpg",
+    "static/media/pes1.jpg": "/pes-site/static/media/pes1.97dc34f3f6507ddcce7c.jpg",
+    "static/media/pes2.jpg": "/pes-site/static/media/pes2.92f791662dfd449a08ad.jpg",
+    "static/media/pes3.jpg": "/pes-site/static/media/pes3.d8e3cfa60482f5da069f.jpg",
+    "index.html": "/pes-site/index.html",
+    "main.0af1025e.css.map": "/pes-site/static/css/main.0af1025e.css.map",
+    "main.4ac3da8b.js.map": "/pes-site/static/js/main.4ac3da8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0af1025e.css",
+    "static/js/main.4ac3da8b.js"
+  ]
+}
