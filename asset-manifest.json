@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/pes-site/static/css/main.d2da197a.css",
+    "main.js": "/pes-site/static/js/main.b8b21095.js",
+    "static/media/Group5453.png": "/pes-site/static/media/Group5453.d4b7f3d277ac23c2add3.png",
+    "static/media/hero-bg-desktop.png": "/pes-site/static/media/hero-bg-desktop.38e9834337b63622440c.png",
+    "static/media/hero-bg-flat.png": "/pes-site/static/media/hero-bg-flat.880f33b0b0be8078cb8a.png",
+    "static/media/Rectangle19.png": "/pes-site/static/media/Rectangle19.43255d1584f00f60a33f.png",
+    "static/media/hero-bg-mobile.png": "/pes-site/static/media/hero-bg-mobile.77b8ac94b4163bf7d998.png",
+    "static/media/Rectangle21.png": "/pes-site/static/media/Rectangle21.a45f2f79a41cf9d6b169.png",
+    "static/media/client-2.png": "/pes-site/static/media/client-2.08d7d6b3d8dd71f801b3.png",
+    "static/media/client-3.png": "/pes-site/static/media/client-3.fc27affe982cef439e2e.png",
+    "static/media/client-1.png": "/pes-site/static/media/client-1.f81e63517f1c9b2376c9.png",
+    "static/media/client-5.png": "/pes-site/static/media/client-5.be1761fe679c686bf79c.png",
+    "static/media/client-4.png": "/pes-site/static/media/client-4.120bb1ff3a1ba4f4dbb1.png",
+    "static/media/pes-logo.png": "/pes-site/static/media/pes-logo.6dad246a796a189ba39d.png",
+    "index.html": "/pes-site/index.html",
+    "static/media/menu.svg": "/pes-site/static/media/menu.92e430f25661913b2e81.svg",
+    "main.d2da197a.css.map": "/pes-site/static/css/main.d2da197a.css.map",
+    "main.b8b21095.js.map": "/pes-site/static/js/main.b8b21095.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2da197a.css",
+    "static/js/main.b8b21095.js"
+  ]
+}
